@@ -1,4 +1,4 @@
-# big-research — 큰 자료조사 스킬 (v1.2)
+# research-curator — 큰 자료조사 스킬 (v1.2.1)
 
 Claude가 **수십~수백 건을 모아 사람이 고르게 하는 조사**(레퍼런스 보드·사례집·업체 목록·게시물 모음)나 **공개 데이터를 모아 대조·계산하는 조사**를 끝까지 진행할 때 따르는 절차와, 그 절차를 받치는 파이썬 코드입니다.
 
@@ -14,12 +14,12 @@ Claude가 **수십~수백 건을 모아 사람이 고르게 하는 조사**(레�
 - 파이썬 3.8 이상 · 외부 패키지 0 · 시험 136건(`scripts/` 에서 `python -m pytest -q`)
 
 ## 설치
-**Claude 앱(웹·데스크톱):** 이 저장소의 `skills/big-research` 폴더를 zip으로 묶어 Customize > Skills > Upload a skill 로 올립니다(폴더 이름 = 스킬 이름). 코드 실행이 켜져 있어야 `scripts/` 를 씁니다.
+**Claude 앱(웹·데스크톱):** 이 저장소의 `skills/research-curator` 폴더를 zip으로 묶어 Customize > Skills > Upload a skill 로 올립니다(폴더 이름 = 스킬 이름). 코드 실행이 켜져 있어야 `scripts/` 를 씁니다.
 
 **Claude Code:**
 ```
 /plugin marketplace add ParkJong-ic/big-research-skill
-/plugin install big-research@big-research
+/plugin install research-curator@research-curator
 ```
 
 ## 쓰는 법

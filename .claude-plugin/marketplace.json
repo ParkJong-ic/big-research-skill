@@ -1,9 +1,9 @@
 {
-  "name": "big-research",
+  "name": "research-curator",
   "owner": { "name": "ParkJong-ic" },
   "plugins": [
     {
-      "name": "big-research",
+      "name": "research-curator",
       "source": "./",
       "description": "큰 자료조사(레퍼런스·사례·업체 수집, 공개 데이터 대조) 스킬 — 링크 확인·중복 거르기 코드 포함."
     }

@@ -1,5 +1,5 @@
 ---
-name: big-research
+name: research-curator
 description: "주제와 상관없이 «큰 자료조사»를 할 때 쓴다 — 사례·레퍼런스·업체·영상·게시물을 수십~수백 건 모아 사람이 고르게 하거나(수집형), 공개 데이터를 모아 대조·계산하는(분석형) 조사. 비용 견적 → 조사 한 장 → 접근 표본시험 → 독립 2차 조사 → 고유 ID 중복 거르기 → 링크 실재·근거 원문 확인(코드) → 카드형 고르는 화면 + 재사용 꾸러미까지. «레퍼런스 모아줘», «사례 50개 찾아줘», «업체 목록 만들어줘», «기준집», «벤치마크 조사», «경쟁사 게시물 모아줘», «공개 데이터로 비교 분석» 같은 요청이면, 사용자가 이 스킬 이름을 말하지 않아도 쓴다. Use for large collect-and-curate research (reference boards, case collections, vendor lists, public-data comparisons). 질문 하나에 서술형 보고서 한 편이면 일반 리서치로 충분하다."
 ---
 

@@ -1,4 +1,4 @@
-# big-research scripts 안내
+# research-curator scripts 안내
 
 파이썬 3.8 이상 · 외부 패키지 0(표준 `sqlite3`·`multiprocessing`·`http.server` 는 장부/시험에만) · 네트워크는 `link_check.py` 만.
 원칙은 **보존 쪽**: 애매하면 합치지 않고(중복이 남는다), 애매하면 `opened` 로 확정하지 않는다(미확인이 늘어난다).
